@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="projects.xsd">
+    <?xml-stylesheet type="text/xsl" href="projects.xsl"?>
+
+
+    <project>
+        <title>Hey DOC! (Mental Health Application)</title>
+        <description>A mental health application to provide support and resources.</description>
+        <technologies>
+            <technology>Flutter</technology>
+            <technology>Firebase</technology>
+            <technology>JavaScript</technology>
+        </technologies>
+    </project>
+    <project>
+        <title>Lighthouse (Investment Application)</title>
+        <description>An investment application where users can pitch ideas and invest based on their interests.</description>
+        <technologies>
+            <technology>Flutter</technology>
+            <technology>Firebase</technology>
+            <technology>Dart</technology>
+        </technologies>
+    </project>
+    <project>
+        <title>TBD (Event Management System)</title>
+        <description>An event management system to plan and organize events efficiently.</description>
+        <technologies>
+            <technology>React</technology>
+            <technology>Node.js</technology>
+            <technology>MongoDB</technology>
+        </technologies>
+    </project>
+</projects>
